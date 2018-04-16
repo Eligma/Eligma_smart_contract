@@ -17,11 +17,11 @@ Main ELI crowdsale information:
 -	Maximum contribution in the Crowdsale: 10 ETH during the first three hours, after that the limit will be removed
 
 -	Crowdsale bonuses:
-    o	8 % of additional tokens for the first 20 mio. ELI tokens 
-    o	6 % of additional tokens for the second 20 mio. ELI tokens 
-    o	4 % of additional tokens for the third 20 mio. ELI tokens 
-    o	2 % of additional tokens for the fourth 20 mio. ELI tokens 
-    o	0 % for remaining tokens
+    - 8 % of additional tokens for the first 20 mio. ELI tokens 
+    - 6 % of additional tokens for the second 20 mio. ELI tokens 
+    - 4 % of additional tokens for the third 20 mio. ELI tokens 
+    - 2 % of additional tokens for the fourth 20 mio. ELI tokens 
+    - 0 % for remaining tokens
 
 
 URL: https://www.eligma.io
