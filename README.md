@@ -22,8 +22,12 @@ Eligma is an AI-driven and blockchain-based cognitive commerce platform that wil
     - 4 % of additional tokens for the third 20 mio. ELI tokens 
     - 2 % of additional tokens for the fourth 20 mio. ELI tokens 
     - 0 % for remaining tokens
+  
+ 
+ 
     
     
+
 
 
 URL: https://www.eligma.io
