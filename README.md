@@ -5,7 +5,7 @@ In this repository you will find Eligma’s smart contract.
 Eligma is an AI-driven and blockchain-based cognitive commerce platform that will change the way people discover, purchase, track and resell items online.
 
 
-Main ELI crowdsale information:
+**Main ELI crowdsale information:**
 
 -	Eligma token (code: ELI) is a fully ERC-20 compliant Ethereum utility token available in exchange for ETH during the Crowdsale event which will start on April 17th 11:00 UTC and will last until May 8th 11:00 UTC or until hard cap is reached
 -	Hard cap: 34,180 ETH (14,550 ETH raised in the presale phase)
@@ -22,7 +22,8 @@ Main ELI crowdsale information:
     - 4 % of additional tokens for the third 20 mio. ELI tokens 
     - 2 % of additional tokens for the fourth 20 mio. ELI tokens 
     - 0 % for remaining tokens
-
+    
+    
 
 
 URL: https://www.eligma.io
