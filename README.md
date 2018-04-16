@@ -24,5 +24,7 @@ Main ELI crowdsale information:
     - 0 % for remaining tokens
 
 
+
 URL: https://www.eligma.io
+
 Copyright 2018, Eligma Ltd.
